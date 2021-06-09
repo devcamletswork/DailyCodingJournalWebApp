@@ -1,0 +1,3 @@
+This is a 'journal app'
+
+purpose--- to keep a static place of keeping notes in the browser. 
